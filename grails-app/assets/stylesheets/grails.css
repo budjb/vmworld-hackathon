@@ -44,9 +44,7 @@ pre {
 
 }
 .navbar-default, .navbar-static-top {
-    /* HERE! */
-    background-color: #4D8618;
-    /*background-color: #006dba;*/
+    background-color: #006dba;
     border: 0px;
 }
 a.navbar-brand {

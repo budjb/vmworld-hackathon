@@ -10,7 +10,7 @@
 
 <body>
 <div id="mainContainer">
-    <g:img dir="images" file="splash.jpg" id="splash"/>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1" frameborder="0" allowfullscreen></iframe>
     <div id="log"></div>
 </div>
 </body>

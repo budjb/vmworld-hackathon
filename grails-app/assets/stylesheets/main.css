@@ -84,9 +84,7 @@ img {
 }
 
 .footer {
-    /* HERE! */
-    background: #48802c;
-    /*background: #006dba;*/
+    background: #006dba;
     color: #000;
     clear: both;
     font-size: 0.8em;
