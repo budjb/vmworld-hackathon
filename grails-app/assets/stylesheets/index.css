@@ -1,0 +1,16 @@
+#splash {
+    width: 400px;
+    text-align: center;
+}
+
+div#mainContainer {
+    width: 400px;
+    margin: 2em auto;
+}
+
+div#log {
+    margin: 2em auto;
+    height: 100px;
+    overflow: scroll;
+    border: 1px solid black;
+}
